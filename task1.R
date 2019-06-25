@@ -6,3 +6,5 @@ ggplot(iris) +
   geom_point()
   
 str(mtcars)
+
+# mi van?
